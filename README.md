@@ -1,0 +1,1 @@
+This is my second front end project. This time I'll try to replicate the google search page instead of the google home page (first project) 
